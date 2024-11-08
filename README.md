@@ -15,4 +15,8 @@ este jogo foi baseado em um jogo de ping pong, cujo o objetivo do jogo e ser igu
 <br>
 o deploy do aplicativo foi realizado através do Vercel. para acessá-lo, basta clicar nesse <a href="https://vercel.com/jota774s-projects/jogopingpong/BCVJ69E7J6FiPNLWtUDsYiLVeHSf" target="_blank"> Link </a>
 
-<img src=
+<img src=assets/foto/WhatsApp Image 2024-11-08 at 11.38.37.jpeg>
+
+<br>
+
+desenvolvido por **João André**
