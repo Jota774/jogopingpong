@@ -13,4 +13,4 @@ este jogo foi baseado em um jogo de ping pong, cujo o objetivo do jogo e ser igu
 ## Deploy ##
 <br>
 <br>
-o deploy do aplicativo foi realizado através do Vercel. para acessá-lo, basta clicar nesse <a href="https://vercel.com/jota774s-projects/jogopingpong/BCVJ69E7J6FiPNLWtUDsYiLVeHSf> Link </a>
+o deploy do aplicativo foi realizado através do Vercel. para acessá-lo, basta clicar nesse <a href="https://vercel.com/jota774s-projects/jogopingpong/BCVJ69E7J6FiPNLWtUDsYiLVeHSf" target="_blank"> Link </a>
